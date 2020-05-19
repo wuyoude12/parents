@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: dev
+
+wyd:
+  sys:
+    port: 6001
+  customer:
+    port: 6002
+  goods:
+    port: 6003
+  order:
+    port: 6004
+  web:
+    port: 9001

@@ -1,0 +1,2 @@
+server:
+  port: ${wyd.order.port}
